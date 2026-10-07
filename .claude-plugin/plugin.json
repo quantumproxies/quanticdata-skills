@@ -1,0 +1,23 @@
+{
+  "name": "quanticdata",
+  "version": "1.0.0",
+  "description": "Agent Skills for QuanticData: web scraping, search, crawling, Collectors, datasets and proxies for Claude, Codex, Cursor and any agent that reads SKILL.md.",
+  "author": {
+    "name": "QuanticData",
+    "url": "https://quanticdata.io/"
+  },
+  "homepage": "https://quanticdata.io/mcp-server/",
+  "repository": "https://github.com/quantumproxies/quanticdata-skills",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "skills",
+    "web-scraping",
+    "serp",
+    "crawl",
+    "proxies",
+    "collectors",
+    "datasets",
+    "mcp"
+  ]
+}
